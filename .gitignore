@@ -1,0 +1,8 @@
+.qodo
+
+---
+
+### 3️⃣ Add `.gitignore`
+
+Ignore your `.env` file and `node_modules`:
+
